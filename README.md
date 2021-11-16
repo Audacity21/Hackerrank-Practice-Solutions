@@ -12,3 +12,8 @@ Updated daily :) If it was helpful please press a star.
 
 - Folders
   01. Data Structures | [Problems](https://www.hackerrank.com/domains/data-structures) | [Solutions](https://github.com/Audacity21/Hackerrank-Practice-Solutions/tree/main/Problem%20Solving)
+  02. C Programming | [Problems](https://www.hackerrank.com/domains/c) | [Solutions](https://github.com/Audacity21/Hackerrank-Practice-Solutions/tree/main/C)
+  03. JAVA | [Problems](https://www.hackerrank.com/domains/java) | [Solutions](https://github.com/Audacity21/Hackerrank-Practice-Solutions/tree/main/JAVA)
+  04. 30 Days of Code | [Problems](https://www.hackerrank.com/domains/tutorials/30-days-of-code) | [Solutions](https://github.com/Audacity21/Hackerrank-Practice-Solutions/tree/main/30%20Days%20of%20Code)
+  05. Python | [Problems](https://www.hackerrank.com/domains/tutorials/python) | [Solutions](https://github.com/Audacity21/Hackerrank-Practice-Solutions/tree/main/Python)
+  06. SQL | [Problems](https://www.hackerrank.com/domains/tutorials/sql) | [Solutions](https://github.com/Audacity21/Hackerrank-Practice-Solutions/tree/main/SQL)
